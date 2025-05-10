@@ -12,6 +12,9 @@ Desarrolle una pequeña red en pantalla completa, que pueda ser utilizada para p
 
 - Para facilitar el dibujo de imágenes, debe ser posible hacerlo arrastrando el cursor del mouse. Cuando una celda sea clickeada, se activa la dicha función. Todas las celdas por las que pase el cursor deben seleccionarse. Cuando se suelta el mouse, se desactiva la función de arrastre, y todas las celdas por las que pase el cursor ya no se verán modificadas. Tener en cuenta que, de todas formas, debe continuar siendo posible clickear cada celda individualmente.
 
+# Demo Live
+
+Visit the demo live of this app: https://etno94.github.io/Paint-Grid/index.html
 # Mini Painting Application
 
 This is a mini painting application that features a responsive grid of 100 squares. Users can click on the squares to change their colors, creating a simple painting experience.
